@@ -35,7 +35,7 @@ scraped_links = [
     "https://www.facebook.com/elliott.ediebroken",
     "https://www.linkedin.com/company/sustainment-management-system-sms",
     "https://www.instagram.com/joebidennnnnnnnnNN/",
-    "https://www.flickr.com/photos/xtechsearchh/"
+    "https://www.flickr.com/photos/techsearchh/"
 
 ]
 
