@@ -1,4 +1,4 @@
-IOT download the project run "git clone https://github.com/5P3NC3/Srape_For_Social.git".
+IOT download the project run "git clone https://github.com/5P3NC3/Scrape_For_Social.git".
 'just_run_me.py" will run create_checked_list.py and then scrape_checked_list.py. 
 create_checked_list.py will ask for a list of fqdns without schemes. It will visit each site and create a list called checked_urls.txt full of accessable sites.
 scrape_checked_list will scrape each site in checked_urls.txt for social links.
