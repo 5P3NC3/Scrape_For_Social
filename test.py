@@ -32,10 +32,11 @@ timestamp = datetime.now().strftime("%m-%d_%H")
 csv_file_name = f"output_{timestamp}.csv"
 
 scraped_links = [
-    "https://www.facebook.com/elliott.ediebroken",
-    "https://www.linkedin.com/company/sustainment-management-system-sms",
-    "https://www.instagram.com/joebidennnnnnnnnNN/",
-    "https://www.flickr.com/photos/techsearchh/"
+    "https://www.facebook.com/exampleperson11111",
+    "https://www.linkedin.com/company/unavailable/",
+    "https://www.instagram.com/exampleperson1111",
+    "https://www.flickr.com/photos/example",
+    "https://x.com/exampleperson1111111"
 
 ]
 
